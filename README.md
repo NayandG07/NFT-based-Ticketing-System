@@ -86,3 +86,7 @@ Our vision is to transform the traditional ticketing industry by leveraging bloc
 ---
 
 *This project represents the future of event ticketing, combining the security of blockchain technology with the user experience expectations of modern digital platforms.*
+
+### **Contract Details** : 0xAACd0E822a6faA7B4dEa8a6984991395675EeD2e
+<img width="1269" height="715" alt="image" src="https://github.com/user-attachments/assets/3f3d27ad-cfae-4045-b1d2-c0cba55b6cb2" />
+
